@@ -1,0 +1,28 @@
+h1,h2 {
+  color:blue;
+}
+
+.content1 {
+  color:green;
+  border:100px solid black;
+  border-radius:100px;
+  padding;10px 5px 50px 5px;
+  margin;10px 5px 50px 5px;
+  font-size:30px;
+  font-style:italic;
+}
+
+.content2 {
+  color:green;
+  border:100px solid black;
+  border-radius:100px;
+  padding;10px 5px 50px 5px;
+  margin;10px 5px 50px 5px;
+  font-size:25px;
+  font-style:italic;
+}
+
+body {
+  background-color:orange;
+  text-align:center;
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>PRE-MID</title>
+ </head>
+ <body>
+ <table border=1>
+   <tr>
+     <td>
+       <center>
+     <img src = "sjc1.png" alt = "SAINT JOSEPH COLLEGE" height = "200px">
+     </center>
+     </td>
+     <td><h1>SAINT JOSEPH COLLEGE</h1>
+     </td>
+   </tr>
+ 
+   <tr>
+     <td colspan = 2>
+      <hr>
+     </td>
+   </tr>
+
+   <tr>
+     <th><img src = "/PREMID-EXAM/images/pfp.jpg" alt = "PROFILE PICTURE"  height = "200px"></th>
+     <td>
+       <center>
+       <h2>PASCUAL,JOHN MACSIE</h2>
+       <p>Future Web Developer</p>
+       </center>
+     </td>
+   </tr>
+   
+   <tr>
+     <td colspan = 2>
+       <ul type = "circle">
+         <li>What is html?</li>
+         
+         <ol type = "A">
+           <li>Hypertext Markup Language</li>
+           <li>Hyper Text Markup Language</li>
+           <li>Hyper-Text Markup Language</li>
+         </ol>
+         
+           <li>Choose</li>
+           <ol type = "A">
+             <li>!https></li>
+             <li>https</li>
+           </ol>
+         </ul>
+     </td>
+    </tr>
+ </body>
+</html>
+
+<style>
+table {
+  margin: auto;
+}
+</style>
